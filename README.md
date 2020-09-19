@@ -1,1 +1,1 @@
-Build script sample built in Bash.
+Build script sample written in Bash.
